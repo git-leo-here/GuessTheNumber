@@ -21,7 +21,7 @@ body {
 /* LAYOUT */
 header {
   position: relative;
-  height: 35vh;
+  height: 25vh;
   border-bottom: 7px solid #eee;
 }
 
@@ -116,4 +116,12 @@ h1 {
 
 .label-score {
   margin-bottom: 2rem;
+}
+
+footer{
+  text-align: center;
+}
+
+footer h3{
+  margin: 1rem;
 }
